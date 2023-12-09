@@ -1,4 +1,4 @@
-# IP ASSIGNATION
+# IP Assignation
 
 Please note that any legacy files in this Github org that are still marked as
 Copyright Blockchain Technology Partners are in fact Copyright Paravela Limited
